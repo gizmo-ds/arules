@@ -12,3 +12,7 @@ DOMAIN-SUFFIX,cdn.ea.com
 
 # R Star
 DOMAIN-SUFFIX,rockstargames.com
+
+# xbox
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservices.com
